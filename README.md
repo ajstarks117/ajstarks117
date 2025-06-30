@@ -12,7 +12,7 @@
 
 ###
 
-<h6 align="left">- 🎓 I'm a 2nd Year Computer Engineering Student  <br>- 💡 Passionate about building projects that solve real-world problems  <br>- 🔧 Currently learning: Web Development, Python, Git & GitHub,Java  <br>- 🤝 Always open to collaboration and learning new technologies</h6>
+<h6 align="left">- 🎓 I'm a 2nd Year Computer Engineering Student  <br>- 💡 Passionate about building projects that solve real-world problems  <br>- 🔧 Currently learning: Web Development, Python, Git & GitHub, Java  <br>- 🤝 Always open to collaboration and learning new technologies</h6>
 
 ###
 
