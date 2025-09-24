@@ -12,7 +12,7 @@
 
 ###
 
-<h6 align="left">- 🎓 I'm a 2nd Year Computer Engineering Student  <br>- 💡 Passionate about building projects that solve real-world problems  <br>- 🔧 Currently learning: Web Development, Python, Git & GitHub, Java  <br>- 🤝 Always open to collaboration and learning new technologies</h6>
+<h6 align="left">- 🎓 I'm a 2nd Year Computer Engineering Student  <br>- 💡 Passionate about building projects that solve real-world problems  <br>- 🔧 Currently learning: Web Development, Python, Git & GitHub, CPP  <br>- 🤝 Always open to collaboration and learning new technologies</h6>
 
 ###
 
@@ -87,6 +87,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="60" alt="React.js logo" />
 </div>
 
 ###
@@ -110,8 +112,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ajstarks117/count.svg?"  />
-</div>
+ ![](https://komarev.com/ghpvc/?username=ajstarks117&color=orange)
 
 ###
