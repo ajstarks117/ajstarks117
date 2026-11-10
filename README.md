@@ -74,11 +74,11 @@ Game Development
 🏅
 ### Achievement
 
-### Top 20 Grand Finals
+### Runner-Up at Globathon-2026
 
-**BlueBit 4.0 Hackathon**
+**Globathon - 2026**
 
-PCCOE Pune
+Globatech.Pvt.Ltd
 
 <br><br>
 </td>
